@@ -1,4 +1,10 @@
 # PWC Virtual Internship
+## Background and Project Overview:
+PwC is committed to driving the skills revolution required by the digital age. This includes not only digital proficiency but also fostering creativity, emotional intelligence, and digital awareness to help employees succeed in the future workplace. 
+As part of this mission, PwC offers motivated employees the opportunity to become 'Digital Accelerators,' rapidly advancing their skills in data, automation, AI, and digital storytelling. Welcome to the team! Your manager, Giulia, will support you in mastering PowerBI, a key step in your journey to becoming a Digital Accelerator. An important client is already awaiting your expertise in data visualization.
+
+### Disclaimer:
+This project is being completed using Tableau for data visualization and analysis. While Tableau is my tool of choice for this project, the insights and visualizations created here can be adapted to other platforms as needed. All visualizations and analyses will be shared in Tableau-compatible formats.
 
 ## Task 2: Visualizing Customer and Agent Behavior
 - Create a dashboard for visualizing relevant KPIs and metrics in the dataset provided.
