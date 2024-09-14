@@ -1,9 +1,9 @@
 # PWC Virtual Internship
 ## Background and Project Overview:
 PwC is committed to driving the skills revolution required by the digital age. This includes not only digital proficiency but also fostering creativity, emotional intelligence, and digital awareness to help employees succeed in the future workplace. 
-As part of this mission, PwC offers motivated employees the opportunity to become 'Digital Accelerators,' rapidly advancing their skills in data, automation, AI, and digital storytelling. Welcome to the team! Your manager, Giulia, will support you in mastering PowerBI, a key step in your journey to becoming a Digital Accelerator. An important client is already awaiting your expertise in data visualization.
+As part of this mission, PwC offers motivated employees the opportunity to become 'Digital Accelerators,' rapidly advancing their skills in data, automation, AI, and digital storytelling. 
 
-This project consists of 3 tasks.
+This project consists of 4 tasks.
 
 > Task 1: Introduction
 - Watch the video ‘New world. New skills. PwC's journey to drive a digital mindset’.
@@ -27,6 +27,8 @@ This project consists of 3 tasks.
 This project is being completed using Tableau for data visualization and analysis. While Tableau is my tool of choice for this project, the insights and visualizations created here can be adapted to other platforms as needed. All visualizations and analyses will be shared in Tableau-compatible formats.
 
 ## Task 2: Call Centre Trends 
+Visualizes key call center metrics, including total calls, calls answered/abandoned, average handling time, agent performance, and overall customer satisfaction.
+
 <img width="994" alt="Screenshot 2024-09-10 at 3 42 56 AM" src="https://github.com/user-attachments/assets/5e84c0b1-7602-4018-a9b7-c5230163294b">
 
 ### 1. **Overall Performance Metrics**
@@ -55,29 +57,28 @@ This project is being completed using Tableau for data visualization and analysi
 
       
 ## Task 3: Customer Retention 
-  
+Identify at-risk customers before contract termination, improving the retention department's ability to proactively engage.
 <img width="997" alt="Screenshot 2024-09-10 at 3 43 07 AM" src="https://github.com/user-attachments/assets/3aa6538b-5472-4105-b637-aad480d73f20">
 
 ### 1. **Customer Churn Rate and At-Risk Customers**
 
 - **Churn Rate**: The churn rate is **26.5%**, indicating that over a quarter of the customer base has left the company.
-- **At-Risk Customers**: **7,043 customers** are identified as at risk, a significant portion of the customer base.
 
 ### 2. **Demographic Insights**
 
-- **Partner Status**: **64% of churners** are not partners, suggesting that non-partner customers are more likely to churn.
-- **Senior Citizens**: Only **25% of churners** are senior citizens, indicating they are less likely to churn.
+- **Partner Status**: **64% of churners** dp not have partners, suggesting that non-partner customers are more likely to churn.
+- **Senior Citizens**: Only **25% of churners** are senior citizens, indicating non-senior citizens are more likely to churn.
 - **Dependent Status**: **83% of churners** do not have dependents, showing a higher churn likelihood among those without dependents.
 
 ### 3. **Contract Type**
 
 - **Month-to-Month Contracts**: **32% of churners** are on month-to-month contracts, much higher than those on longer contracts.
-- **Longer Contracts**: Customers on **two-year contracts** have the lowest churn rate at **2%**, while **23%** of those on one-year contracts churn.
+- **Longer Contracts**: Customers on **one and two year contracts** have very low churn rate at **1% and 2%**, 
 
 ### 4. **Payment Methods**
 
-- **Electronic Check**: **15% of churners** use electronic checks, compared to **3%** for automatic credit card payments.
-- **Mailed Checks**: **19% of churners** use mailed checks, indicating higher churn among users of traditional payment methods.
+- **Electronic Check**: **3/4 of churners** use electronic checks, indicating low churn among users of traditional payment methods.
+- Non-churners are dirtributed evenly among all payment methods.
 
 ### 5. **Charges and Tickets**
 
@@ -94,10 +95,11 @@ This project is being completed using Tableau for data visualization and analysi
 ### Recommendations
 
 1. **Retention Strategies**: Focus on month-to-month customers with incentives for longer contracts. Address high charges and improve tech support to reduce churn.
-2. **Engagement for At-Risk Groups**: Enhance engagement for non-partner and non-dependent customers. Encourage the use of subscription services to increase loyalty.
-3. **Payment Methods**: Promote stable payment options like automatic transfers to reduce churn among customers using electronic and mailed checks.
+2. **Engagement for At-Risk Groups**: Enhance engagement for non-partner, non-dependent and non-senior customers. Encourage the use of subscription services to increase loyalty.
+3. **Payment Methods**: Promote stable payment options to reduce churn among customers using electronic checks.
 
 ## Task 4: Diversity & Inclusion 
+The HR department at telecom client is seeking support to improve gender diversity at the executive level, as their current efforts have shown little progress
 <img width="999" alt="Screenshot 2024-09-10 at 3 39 06 AM" src="https://github.com/user-attachments/assets/185a42d5-1c1e-4646-8bb0-1592be1003d2">
 <img width="996" alt="Screenshot 2024-09-10 at 3 39 14 AM" src="https://github.com/user-attachments/assets/5bb22043-219f-4fbc-9dfd-ded7b4077200">
 
