@@ -3,14 +3,30 @@
 PwC is committed to driving the skills revolution required by the digital age. This includes not only digital proficiency but also fostering creativity, emotional intelligence, and digital awareness to help employees succeed in the future workplace. 
 As part of this mission, PwC offers motivated employees the opportunity to become 'Digital Accelerators,' rapidly advancing their skills in data, automation, AI, and digital storytelling. Welcome to the team! Your manager, Giulia, will support you in mastering PowerBI, a key step in your journey to becoming a Digital Accelerator. An important client is already awaiting your expertise in data visualization.
 
-### Disclaimer:
-This project is being completed using Tableau for data visualization and analysis. While Tableau is my tool of choice for this project, the insights and visualizations created here can be adapted to other platforms as needed. All visualizations and analyses will be shared in Tableau-compatible formats.
+This project consists of 3 tasks.
 
-## Task 2: Visualizing Customer and Agent Behavior
+> Task 1: Introduction
+- Watch the video ‘New world. New skills. PwC's journey to drive a digital mindset’.
+
+> Task 2: Visualizing Customer and Agent Behavior
+
 - Create a dashboard for visualizing relevant KPIs and metrics in the dataset provided.
 - Leverage additional resources, such as podcasts and articles, to enhance your skills in data visualization.
 - Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.
-Respond to the client's request by providing a well-designed dashboard reflecting the requested KPIs.
+- Respond to the client's request by providing a well-designed dashboard reflecting the requested KPIs.
+
+> Task 3: Customer Demographics and Insights
+- Create a dashboard using the defined KPIs to reflect customer demographics and insights.
+- Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
+
+> Task 4: Gender Balance in the Executive Suite
+- Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
+- Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+  
+### Disclaimer:
+This project is being completed using Tableau for data visualization and analysis. While Tableau is my tool of choice for this project, the insights and visualizations created here can be adapted to other platforms as needed. All visualizations and analyses will be shared in Tableau-compatible formats.
+
+## Task 2: Call Centre Trends 
 <img width="994" alt="Screenshot 2024-09-10 at 3 42 56 AM" src="https://github.com/user-attachments/assets/5e84c0b1-7602-4018-a9b7-c5230163294b">
 
 ### 1. **Overall Performance Metrics**
@@ -38,9 +54,7 @@ Respond to the client's request by providing a well-designed dashboard reflectin
 3. **Increase Resolution Rates**: Analyze unresolved cases for common issues and implement targeted improvements.
 
       
-## Task 3: Customer Demographics and Insights
-- Create a dashboard using the defined KPIs to reflect customer demographics and insights.
-- Write a concise email to the engagement partner explaining your findings and providing suggestions for necessary changes based on the dashboard you've created.
+## Task 3: Customer Retention 
   
 <img width="997" alt="Screenshot 2024-09-10 at 3 43 07 AM" src="https://github.com/user-attachments/assets/3aa6538b-5472-4105-b637-aad480d73f20">
 
@@ -83,9 +97,7 @@ Respond to the client's request by providing a well-designed dashboard reflectin
 2. **Engagement for At-Risk Groups**: Enhance engagement for non-partner and non-dependent customers. Encourage the use of subscription services to increase loyalty.
 3. **Payment Methods**: Promote stable payment options like automatic transfers to reduce churn among customers using electronic and mailed checks.
 
-## Task 4: Gender Balance in the Executive Suite
-- Create visualizations to represent HR data, particularly focusing on gender-related KPIs.
-- Identify and discuss potential root causes for the slow progress in achieving gender balance at the executive management level.
+## Task 4: Diversity & Inclusion 
 <img width="999" alt="Screenshot 2024-09-10 at 3 39 06 AM" src="https://github.com/user-attachments/assets/185a42d5-1c1e-4646-8bb0-1592be1003d2">
 <img width="996" alt="Screenshot 2024-09-10 at 3 39 14 AM" src="https://github.com/user-attachments/assets/5bb22043-219f-4fbc-9dfd-ded7b4077200">
 
