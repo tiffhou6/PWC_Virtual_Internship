@@ -123,8 +123,7 @@ The HR department at telecom client is seeking support to improve gender diversi
 1. **Promotion Bias**: Promotions favor men, especially at higher levels.
 2. **Retention Issues**: Higher female turnover, particularly at junior levels, reduces the talent pool.
 3. **Work-Life Balance**: Lack of supportive policies for women balancing caregiving responsibilities.
-4. **Sponsorship Gap**: Women may lack mentorship and sponsorship needed for career advancement.
-5. **Organizational Culture**: Cultural biases in certain departments hinder gender balance progress at senior levels.
+4. **Organizational Culture**: Cultural biases in certain departments hinder gender balance progress at senior levels.
 
 ### Recommendations for Addressing the Issue
 
