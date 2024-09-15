@@ -130,6 +130,5 @@ The HR department at telecom client is seeking support to improve gender diversi
 1. **Review Promotion Practices**: Identify and eliminate biases in promotion criteria, implementing structured and transparent processes to ensure equity.
 2. **Enhanced Retention Programs**: Create targeted retention programs for women at junior levels, including mentorship, leadership training, and flexible work arrangements.
 3. **Work-Life Balance Initiatives**: Implement or improve gender-neutral policies like flexible hours, remote work, and parental leave to retain female talent.
-4. **Sponsorship and Mentorship**: Launch formal programs where senior leaders sponsor and mentor high-potential female employees.
 5. **Cultural Change**: Promote diversity and inclusion through leadership accountability, diversity training, and setting clear targets.
 
