@@ -66,7 +66,7 @@ Identify at-risk customers before contract termination, improving the retention 
 
 ### 2. **Demographic Insights**
 
-- **Partner Status**: **64% of churners** dp not have partners, suggesting that non-partner customers are more likely to churn.
+- **Partner Status**: **64% of churners** do not have partners, suggesting that non-partner customers are more likely to churn.
 - **Senior Citizens**: Only **25% of churners** are senior citizens, indicating non-senior citizens are more likely to churn.
 - **Dependent Status**: **83% of churners** do not have dependents, showing a higher churn likelihood among those without dependents.
 
