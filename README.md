@@ -27,6 +27,12 @@ Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCen
 
 This dashboard, developed in response to a request from the telecom's Retention Manager, highlights key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to improve retention rates.
 
+Access [here]([https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCenterTrends_17267235969210/Dashboard1](https://public.tableau.com/app/profile/tiffany.hou8743/viz/CustomerRetentionAnalysis_17267754745280/ChurnAnalysis)) for live and interactive dashboards.
+
 ### Diversity & Inclusion
 
 This dashboard focuses on the telecom client's goal of improving gender balance at the executive management level. It provides a clear visualization of diversity and inclusion metrics, offering insights into current trends and areas for action.
+
+Access [here]([https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCenterTrends_17267235969210/Dashboard1](https://public.tableau.com/app/profile/tiffany.hou8743/viz/DiversityInclusion1/Dashboard1)) for live and interactive dashboards.
+
+Access [here]([https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCenterTrends_17267235969210/Dashboard1](https://public.tableau.com/app/profile/tiffany.hou8743/viz/DiversityInclusion_17267751564930/Dashboard2)) for live and interactive dashboards.
