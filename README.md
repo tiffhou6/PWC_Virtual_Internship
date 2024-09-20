@@ -28,28 +28,28 @@ Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCen
 #### Total Calls and Performance:
 Out of the 5,000 total calls handled by eight agents, 81% were answered, and 73% were resolved. The average satisfaction rating is 3.4 out of 5, which indicates room for improvement. The average speed of answer is 68 seconds, suggesting moderate efficiency.
 
-#### Topic Distribution:
+#### 1. Topic Distribution:
 - The distribution of calls across topics is relatively even, with no significant differences in volume.
 
-#### Agent Performance:
+#### 2. Agent Performance:
 - **Joe** and **Stewart** handled fewer than 600 total calls, answered fewer than 500 calls, and resolved fewer than 450 calls, while the other agents exceeded these numbers.
 - **Jim** handled the most total, answered, and resolved calls, while **Stewart** had the fewest across all categories.
 - Satisfaction scores by topic ranged between 3.2 and 3.7, with no major deviations. **Martha** achieved the highest satisfaction rating of 3.7 in streaming, while **Joe** had the lowest at 3.2. **Dan** performed best in technical support, while **Becky** had the lowest rating in this category.
 
-#### Resolved Calls by Topic:
+#### 3. Resolved Calls by Topic:
 - **Jim** led in contract-related calls with 110 resolved, while **Joe** only managed 75.
 - **Dan** excelled in technical support, resolving 106 calls, compared to **Greg**, who handled only 79.
 - **Becky** resolved 105 streaming calls, while **Stewart** only resolved 77.
 
-#### Call Duration:
+#### 4. Call Duration:
 - **Greg** had the shortest average call duration for admin support (2.7 minutes) but the longest for streaming.
 - **Diane** showed a similar pattern, with the shortest duration for admin support and the longest for contract-related calls.
 - Other agents' call durations were fairly consistent across topics (< 0.5min difference).
 
-#### Call Volume by Time:
+#### 5. Call Volume by Time:
 - Call volume dips at 2 PM after peaking at 1 PM, and then gradually increases again, reaching another peak towards the end of the day at 5 PM.
 
-#### Satisfaction and Speed of Answer:
+#### 6. Satisfaction and Speed of Answer:
 - Satisfaction ratings and speed of answers show little variation among agents, with **Martha** receiving the highest rating and **Joe** the lowest. 
 - The difference in speed of answer between the agents is minimal (0.08 minutes), and there is no clear correlation between satisfaction ratings and the number of resolved or answered calls nor speed of answer.
 
@@ -73,7 +73,45 @@ Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/Custome
 
 <img width="1001" alt="Customer Retention" src="https://github.com/user-attachments/assets/12bcb694-fff2-4a5e-8c9f-42108c76a7b8">
 
-### Diversity & Inclusion
+#### Total Customers and Performance: 
+The analysis is based on 7,043 customers, with a churn rate of 26.5%. Of these customers, 48.3% have a partner, 16.2% are senior citizens, and 30% have dependents.
+
+#### 1. Churn Rate and Demographics:
+- **Customers without a partner** are twice as likely to churn compared to those with a partner (**35%** vs. **17%**).
+- **Non-senior citizens** are three times more likely to churn, making up **64%** of churners, while only **7%** of senior citizens churn.
+- **Customers without dependents** are four times more likely to churn, representing **48%** of churners, compared to **5%** for those with dependents.
+
+#### 2. Contract Type:
+- **Month-to-month contracts** have the highest churn rate (**23%**), while **one-year** and **two-year contracts** have significantly lower churn rates (**2%** and **1%**, respectively).
+
+#### 3. Payment Method:
+- The **electronic check** payment method has the highest churn rate (**15%**), while other methods, such as **mailed checks**, **bank transfers**, and **credit card payments**, have lower churn rates (all below **5%**).
+
+#### 4. Charges and Tickets:
+- Customers with higher **average total charges** (around **$2,555**) tend to churn more than those with lower total charges (**$1,532**).
+- Churners also tend to have more **tech tickets** (**2,173**) compared to non-churners, who have fewer (**782**). Conversely, churners have fewer **admin tickets** (885 vs. 2,747), indicating that technical issues could be contributing to churn.
+
+#### 5. Services Impacting Churn:
+- Churners are less likely to subscribe to services like **online security** (16% vs. 33%), **device protection** (29% vs. 36%), and **tech support** (18% vs. 34%). This lack of service adoption may contribute to the higher number of tech tickets.
+- **Phone service** is retained by **91%** of all customers, with no major difference between churners and non-churners (90%).
+- **Multiple lines**, **streaming TV**, and **streaming movies** have slightly higher churn rates compared to other services, but remain popular among both churners and non-churners.
+
+#### Recommendations:
+
+1. **Encourage Long-Term Contracts:** Since **month-to-month contracts** have the highest churn rate, offer incentives for customers to switch to **one-year** or **two-year contracts** (e.g., discounts or loyalty rewards).
+
+2. **Improve Technical Support:** The high number of tech tickets among churners suggests dissatisfaction with technical issues. Enhancing **technical support** availability and quality may help reduce churn.
+
+3. **Promote Service Add-ons:**  Encourage customers to adopt additional services like **online security**, **device protection**, and **tech support**, as churners have lower subscription rates to these services. This could also reduce the number of tech-related issues and tickets.
+
+4. **Targeted Retention Campaigns for Key Demographics:**  Create targeted campaigns for customers **without partners** or **dependents**, who show higher churn rates. Offer personalized services or benefits to encourage retention. Since **Senior citizens** churn less, so continuing to offer tailored services, such as specialized tech support for older customers, may help maintain low churn rates in this demographic.
+
+5. **Payment Method Optimization:** Customers using **electronic checks** show higher churn rates. Offer more convenient and reliable payment methods like **automatic payments via bank transfers or credit cards**, along with discounts to encourage adoption.
+
+6. **Monitor High-Cost Customers:** Since customers with higher total charges tend to churn more, consider offering **tiered pricing** or **loyalty rewards** for high-spending customers to retain them, such as discounts on additional services or premium support.
+
+
+### 3. Diversity & Inclusion
 
 This dashboard focuses on the telecom client's goal of improving gender balance at the executive management level. It provides a clear visualization of diversity and inclusion metrics, offering insights into current trends and areas for action.
 
