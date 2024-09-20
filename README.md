@@ -23,7 +23,7 @@ The first dashboard provides a comprehensive overview of key call centre metrics
 
 Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCenterTrends_17267235969210/Dashboard1) for live and interactive dashboards.
 
-<img width="1001" alt="Call Center Trends" src="https://github.com/user-attachments/assets/d2b17686-530e-4ef5-a871-3893f0de5e70">
+<img width="1001" alt="Call Center Trends" src="https://github.com/user-attachments/assets/8b50d533-f44c-4989-a607-f6d0479dd528">
 
 ### Customer Retention
 
