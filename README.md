@@ -25,6 +25,46 @@ Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/CallCen
 
 <img width="1001" alt="Call Center Trends" src="https://github.com/user-attachments/assets/8b50d533-f44c-4989-a607-f6d0479dd528">
 
+#### Total Calls and Performance:
+Out of the 5,000 total calls handled by eight agents, 81% were answered, and 73% were resolved. The average satisfaction rating is 3.4 out of 5, which indicates room for improvement. The average speed of answer is 68 seconds, suggesting moderate efficiency.
+
+#### Topic Distribution:
+- The distribution of calls across topics is relatively even, with no significant differences in volume.
+
+#### Agent Performance:
+- **Joe** and **Stewart** handled fewer than 600 total calls, answered fewer than 500 calls, and resolved fewer than 450 calls, while the other agents exceeded these numbers.
+- **Jim** handled the most total, answered, and resolved calls, while **Stewart** had the fewest across all categories.
+- Satisfaction scores by topic ranged between 3.2 and 3.7, with no major deviations. **Martha** achieved the highest satisfaction rating of 3.7 in streaming, while **Joe** had the lowest at 3.2. **Dan** performed best in technical support, while **Becky** had the lowest rating in this category.
+
+#### Resolved Calls by Topic:
+- **Jim** led in contract-related calls with 110 resolved, while **Joe** only managed 75.
+- **Dan** excelled in technical support, resolving 106 calls, compared to **Greg**, who handled only 79.
+- **Becky** resolved 105 streaming calls, while **Stewart** only resolved 77.
+
+#### Call Duration:
+- **Greg** had the shortest average call duration for admin support (2.7 minutes) but the longest for streaming.
+- **Diane** showed a similar pattern, with the shortest duration for admin support and the longest for contract-related calls.
+- Other agents' call durations were fairly consistent across topics (< 0.5min difference).
+
+#### Call Volume by Time:
+- Call volume dips at 2 PM after peaking at 1 PM, and then gradually increases again, reaching another peak towards the end of the day at 5 PM.
+
+#### Satisfaction and Speed of Answer:
+- Satisfaction ratings and speed of answers show little variation among agents, with **Martha** receiving the highest rating and **Joe** the lowest. 
+- The difference in speed of answer between the agents is minimal (0.08 minutes), and there is no clear correlation between satisfaction ratings and the number of resolved or answered calls nor speed of answer.
+
+#### Recommendations:
+
+1. **Expert Mentorship:** Agents excelling in specific areas, like **Martha** in streaming and **Dan** in technical support, should mentor agents with lower performance, such as **Joe** and **Becky**.
+
+2. **Targeted Coaching:** **Stewart** and **Joe** should receive additional coaching to improve their overall call handling and resolution rates.
+
+3. **Optimize Scheduling:** Adjust staffing during peak times, particularly around 1 PM, to reduce average speed of answer and maintain service quality.
+
+4. **Distribute Workload:** Assign more calls to agents in their weaker areas to build experience, with guidance from high performers.
+
+5. **Standardize Call Durations:** Investigate agents' varying call durations to establish more consistent handling times across topics.
+
 ### Customer Retention
 
 This dashboard, developed in response to a request from the telecom's Retention Manager, highlights key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to improve retention rates.
