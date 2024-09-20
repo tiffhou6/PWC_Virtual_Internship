@@ -100,15 +100,13 @@ The analysis is based on 7,043 customers, with a churn rate of 26.5%. Of these c
 
 1. **Encourage Long-Term Contracts:** Since **month-to-month contracts** have the highest churn rate, offer incentives for customers to switch to **one-year** or **two-year contracts** (e.g., discounts or loyalty rewards).
 
-2. **Improve Technical Support:** The high number of tech tickets among churners suggests dissatisfaction with technical issues. Enhancing **technical support** availability and quality may help reduce churn.
+2. **Improve Technical Support:** The high number of tech tickets among churners suggests dissatisfaction with technical issues. Enhance **technical support** availability and quality and encourage customers to adopt additional services like **online security**, **device protection**, and **tech support**, as churners have lower subscription rates to these services..
 
-3. **Promote Service Add-ons:**  Encourage customers to adopt additional services like **online security**, **device protection**, and **tech support**, as churners have lower subscription rates to these services. This could also reduce the number of tech-related issues and tickets.
+3. **Targeted Retention Campaigns for Key Demographics:**  Create targeted campaigns for customers **without partners** or **dependents**, who show higher churn rates. Since **Senior citizens** churn less, so continuing to offer tailored services to help maintain low churn rates.
 
-4. **Targeted Retention Campaigns for Key Demographics:**  Create targeted campaigns for customers **without partners** or **dependents**, who show higher churn rates. Offer personalized services or benefits to encourage retention. Since **Senior citizens** churn less, so continuing to offer tailored services, such as specialized tech support for older customers, may help maintain low churn rates in this demographic.
+4. **Payment Method Optimization:** Customers using **electronic checks** show higher churn rates. Perhaps switching to **automatic payments via bank transfers or credit cards** could help, along with discounts to encourage adoption.
 
-5. **Payment Method Optimization:** Customers using **electronic checks** show higher churn rates. Offer more convenient and reliable payment methods like **automatic payments via bank transfers or credit cards**, along with discounts to encourage adoption.
-
-6. **Monitor High-Cost Customers:** Since customers with higher total charges tend to churn more, consider offering **tiered pricing** or **loyalty rewards** for high-spending customers to retain them, such as discounts on additional services or premium support.
+5. **Monitor High-Cost Customers:** Since customers with higher total charges tend to churn more, consider offering **tiered pricing** or **premium support** for high-spending customers to retain them.
 
 
 ### 3. Diversity & Inclusion
