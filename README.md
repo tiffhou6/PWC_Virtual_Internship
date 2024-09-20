@@ -4,7 +4,7 @@
 
 This project is part of PwC Switzerland's Power BI in Data Analytics Virtual Internship, showcasing the application of digital tools for data visualization, automation, and data cleansing to address common business challenges. It includes a series of Power BI dashboards focused on:
 
-- **Call Centre Trends**
+- **Call Center Trends**
 - **Customer Retention**
 - **Diversity & Inclusion**
 
@@ -17,7 +17,7 @@ This project is completed using **Tableau** for data visualization and analysis.
 
 ## Dashboards and Key Insights
 
-### Call Centre Trends
+### Call Center Trends
 
 The first dashboard provides a comprehensive overview of key call centre metrics, including customer satisfaction, call volumes, and agent performance. This visualization helps identify areas for improvement in call centre operations, enabling more effective management and support.
 
@@ -113,7 +113,7 @@ The analysis is based on 7,043 customers, with a churn rate of 26.5%. Of these c
 5. **Monitor High-Cost Customers:** Since customers with higher total charges tend to churn more, consider offering **tiered pricing** or **premium support** for high-spending customers to retain them.
 
 
-### 3. Diversity & Inclusion
+### Diversity & Inclusion
 
 This dashboard focuses on the telecom client's goal of improving gender balance at the executive management level. It provides a clear visualization of diversity and inclusion metrics, offering insights into current trends and areas for action.
 
@@ -144,10 +144,6 @@ There are 500 employees (295 male, 205 female) with an average performance ratin
   - **Junior Officers** make up the largest group, with a near-even split between males (**17.2%**) and females (**20.1%**), suggesting balanced gender representation at entry levels.
   - **Senior Officers** and **Managers** are predominantly male, with males holding **11.9%** of manager roles and   **10.2%** of senior officer positions, compared to females at **5.5%** and **11.0%**, respectively.
   - **Executives** have the lowest representation, and directors are mostly male (**6.4%** male, minimal female representation).
-
-This indicates that while gender balance is relatively equal at entry-level positions, higher job levels see a growing disparity with more males occupying senior roles.
-
- 
 
 #### 2. Employee Turnover and Retention:
 - **Turnover Rate:** Overall turnover is **9.4%**, with **female turnover slightly higher.
