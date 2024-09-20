@@ -53,6 +53,8 @@ Out of the 5,000 total calls handled by eight agents, 81% were answered, and 73%
 - Satisfaction ratings and speed of answers show little variation among agents, with **Martha** receiving the highest rating and **Joe** the lowest. 
 - The difference in speed of answer between the agents is minimal (0.08 minutes), and there is no clear correlation between satisfaction ratings and the number of resolved or answered calls nor speed of answer.
 
+---
+
 #### Recommendations:
 
 1. **Expert Mentorship:** Agents excelling in specific areas, like **Martha** in streaming and **Dan** in technical support, should mentor agents with lower performance, such as **Joe** and **Becky**.
@@ -96,6 +98,8 @@ The analysis is based on 7,043 customers, with a churn rate of 26.5%. Of these c
 - **Phone service** is retained by **91%** of all customers, with no major difference between churners and non-churners (90%).
 - **Multiple lines**, **streaming TV**, and **streaming movies** have slightly higher churn rates compared to other services, but remain popular among both churners and non-churners.
 
+---
+
 #### Recommendations:
 
 1. **Encourage Long-Term Contracts:** Since **month-to-month contracts** have the highest churn rate, offer incentives for customers to switch to **one-year** or **two-year contracts** (e.g., discounts or loyalty rewards).
@@ -119,6 +123,73 @@ Access [here](https://public.tableau.com/app/profile/tiffany.hou8743/viz/Diversi
 
 <img width="1001" alt="Diversity Inclusion 2" src="https://github.com/user-attachments/assets/1d1174fe-3ea8-486c-b6a1-cd562026af58">
 
+#### Total Employee and Performance: 
+There are 500 employees (295 male, 205 female) with an average performance rating of 2.5 across the organization - moderate overall performance.
 
+#### 1. Employee Demographic:
+- **Gender Distribution:** Males represent **59%** of the workforce, while females make up **41%**. This indicates a moderate gender imbalance, particularly in higher job levels.
+- **Age Distribution:** The majority of employees are between **20-39 years old**, with the most significant group being aged **20-29** (44.6%).
+  - Males dominate the younger age groups, with **24%** of 20-29-year-olds being male compared to **20.6%** female, and a similar pattern is observed in the 30-39 age group. This is consistent with the overall larger male population in the company.
+- **Age Distribution:**:
+  - **Junior Officers** are predominantly young, with **94.67%** aged **20-29**, indicating that most entry-level employees are early in their careers.
+  - **Senior Officers** and **Managers** fall mainly between **30-49 years old**, with **83.54%** of managers aged **40-49**, suggesting that mid-level roles are typically held by more experienced employees.
+  - **Executives** are largely older, with **68.42%** aged **50-59**, reflecting that most leadership roles are occupied by those in the later stages of their careers.
+  - **Directors** are primarily aged **40-49** (**57.58%**), showing that leadership typically starts in this age range.
+
+- **Nationality:**:
+  - **52.8%** of employees are from **Switzerland**, while **44.8%** come from other **European** countries, reflecting a mostly European workforce.
+  - A small minority (**0.4%**) are from the **Middle East**, indicating limited geographical diversity beyond Europe.
+
+- **Job Level Distribution:**:
+  - **Junior Officers** make up the largest group, with a near-even split between males (**17.2%**) and females (**20.1%**), suggesting balanced gender representation at entry levels.
+  - **Senior Officers** and **Managers** are predominantly male, with males holding **11.9%** of manager roles and   **10.2%** of senior officer positions, compared to females at **5.5%** and **11.0%**, respectively.
+  - **Executives** have the lowest representation, and directors are mostly male (**6.4%** male, minimal female representation).
+
+This indicates that while gender balance is relatively equal at entry-level positions, higher job levels see a growing disparity with more males occupying senior roles.
+
+ 
+
+#### 2. Employee Turnover and Retention:
+- **Turnover Rate:** Overall turnover is **9.4%**, with **female turnover slightly higher.
+  - **Leaver Distribution by Gender:** Males represent **55.3%** of total leavers, and females make up **44.7%**, reflecting the overall workforce ratio. This suggests no gender-specific issue with turnover, but it highlights the importance of retention strategies for both genders.
+- **By Job Level:**
+  - **Junior officers** show the highest turnover, with **17.2%** of males and **20.1%** of females leaving. This high turnover rate could indicate dissatisfaction at entry-level positions, possibly due to a lack of advancement or growth opportunities.
+  - **Senior officers and managers** have significantly lower turnover rates, reflecting more stability at higher job levels.
+- **Leaver by Department:** 
+  - **Operations** and **Sales & Marketing** have the highest turnover, with both departments seeing a disproportionate number of junior officer leavers. This suggests challenges in retaining junior staff in operational roles.
+
+#### 3. Hiring and Promotion:
+- **New Hires FY20:** There were **66 new hires** in FY20, almost evenly split between genders (**32 male**, **34 female**), indicating good gender diversity in hiring practices.
+- **Departmental New Hires:**
+  - The highest number of hires occurred in **Operations** (**29 hires**), followed by **Sales & Marketing** and **Internal Services**. Departments like **HR** and **Finance** had minimal hiring (1 hire each), possibly reflecting lower growth or recruitment needs.
+- **Promotion Rates and Distribution:**
+  - **FY20:** Promotion rates show a clear gender disparity, with **9.5%** of males promoted compared to only **3.9%** of females. This imbalance is slightly addressed in **FY21**, with male promotion rates at **11.2%** and female promotion rates increasing to **8.8%**, though the gap remains.
+  - In **FY20**, 28 males were promoted compared to just 8 females, while in **FY21**, 33 males were promoted compared to 18 females. The trend shows a gender imbalance in career progression.
+
+#### 4. Comparative Analysis:
+- **Average Performance Rating by Gender:**
+  - Performance ratings are almost identical across genders. These minimal differences suggest that performance evaluations are not influenced by gender, but the overall performance scores seem relatively low, indicating a potential need for performance improvement programs across the organization.
+- **Average Performance Rating by Department:**
+  - There isn't much difference across departments. **Strategy** stands out with the highest average performance rating (**2.6**), while **Finance** and **HR** departments have lower performance ratings, hovering around **2.4**. 
+- **PRA (Performance Review Analysis) Status by Department:**
+  - **Operations** has the highest number of "Even" ratings (**182**), indicating consistent performance review practices.
+  - **Sales & Marketing** displays the most significant disparity, with **41 "Uneven – Men Benefit"** ratings, raising concerns about gender bias in performance reviews within this department.
+  - **Internal Services** has **47 "Even"** ratings but also shows **10 "Uneven – Men Benefit"**, indicating some imbalance.
+  - **Finance** and **HR** both show **15 Inconclusive** ratings, indicating uncertainty in their review practices.
+
+
+---
+
+#### Recommendations:
+
+1. **Improve Career Progression for Females:** Female promotion rates are consistently lower than males. Implement targeted leadership development programs and mentorship opportunities for women and ensure equal advancement opportunities.
+
+2. **Address High Turnover Among Junior Officers:** Enhance retention efforts through career progression initiatives, mentorship, and addressing potential workload concerns for junior employees in these departments.
+
+3. **Increase Diversity at Leadership Levels:**  While females are well-represented at entry levels, there is a clear underrepresentation of females at higher and mid-level roles. Implement hiring and promotion initiatives to increase diversity at these levels.
+
+4. **Focus on Underperforming Departments:** Targeted approach to professional development, resource allocation, and clear performance goals in all departments to help boost productivity and performance scores.
+
+5. **Equitable Performance Review Practices:**  The significant "Uneven – Men Benefit" ratings in **Sales & Marketing** raise concerns about potential gender bias in performance reviews. Review and update PRA processes to ensure fairness and equity across all departments, focusing on minimizing bias in performance evaluations.
 
 
