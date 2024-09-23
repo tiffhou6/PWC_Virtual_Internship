@@ -135,17 +135,17 @@ There are 500 employees (295 male, 205 female) with an average performance ratin
   - **Executives** are largely older, with **68.42%** aged **50-59**, reflecting that most leadership roles are occupied by those in the later stages of their careers.
   - **Directors** are primarily aged **40-49** (**57.58%**), showing that leadership typically starts in this age range.
 
-- **Nationality:**:
+- **Nationality:**
   - **52.8%** of employees are from **Switzerland**, while **44.8%** come from other **European** countries, reflecting a mostly European workforce.
   - A small minority (**0.4%**) are from the **Middle East**, indicating limited geographical diversity beyond Europe.
 
-- **Job Level Distribution:**:
+- **Job Level Distribution:**
   - **Junior Officers** make up the largest group, with a near-even split between males (**17.2%**) and females (**20.1%**), suggesting balanced gender representation at entry levels.
   - **Senior Officers** and **Managers** are predominantly male, with males holding **11.9%** of manager roles and   **10.2%** of senior officer positions, compared to females at **5.5%** and **11.0%**, respectively.
   - **Executives** have the lowest representation, and directors are mostly male (**6.4%** male, minimal female representation).
 
 #### 2. Employee Turnover and Retention:
-- **Turnover Rate:** Overall turnover is **9.4%**, with **female turnover slightly higher.
+- **Turnover Rate:** Overall turnover is **9.4%**, with **female** turnover slightly higher.
   - **Leaver Distribution by Gender:** Males represent **55.3%** of total leavers, and females make up **44.7%**, reflecting the overall workforce ratio. This suggests no gender-specific issue with turnover, but it highlights the importance of retention strategies for both genders.
 - **By Job Level:**
   - **Junior officers** show the highest turnover, with **17.2%** of males and **20.1%** of females leaving. This high turnover rate could indicate dissatisfaction at entry-level positions, possibly due to a lack of advancement or growth opportunities.
