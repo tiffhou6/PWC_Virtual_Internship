@@ -100,7 +100,7 @@ The analysis is based on 7,043 customers, with a churn rate of 26.5%. Of these c
 
 ---
 
-#### Recommendations:
+### Recommendations:
 
 1. **Encourage Long-Term Contracts:** Since **month-to-month contracts** have the highest churn rate, offer incentives for customers to switch to **one-year** or **two-year contracts** (e.g., discounts or loyalty rewards).
 
@@ -175,7 +175,7 @@ There are 500 employees (295 male, 205 female) with an average performance ratin
 
 ---
 
-#### Recommendations:
+### Recommendations:
 
 1. **Improve Career Progression for Females:** Female promotion rates are consistently lower than males. Implement targeted leadership development programs and mentorship opportunities for women and ensure equal advancement opportunities.
 
