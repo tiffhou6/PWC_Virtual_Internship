@@ -1,4 +1,4 @@
-# PWC Virtual Internship
+# **PWC Virtual Internship**
 
 ## Background and Project Overview
 
