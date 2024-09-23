@@ -130,7 +130,6 @@ There are 500 employees (295 male, 205 female) with an average performance ratin
 - **Gender Distribution:** Males represent **59%** of the workforce, while females make up **41%**. This indicates a moderate gender imbalance, particularly in higher job levels.
 - **Age Distribution:** The majority of employees are between **20-39 years old**, with the most significant group being aged **20-29** (44.6%).
   - Males dominate the younger age groups, with **24%** of 20-29-year-olds being male compared to **20.6%** female, and a similar pattern is observed in the 30-39 age group. This is consistent with the overall larger male population in the company.
-- **Age Distribution:**:
   - **Junior Officers** are predominantly young, with **94.67%** aged **20-29**, indicating that most entry-level employees are early in their careers.
   - **Senior Officers** and **Managers** fall mainly between **30-49 years old**, with **83.54%** of managers aged **40-49**, suggesting that mid-level roles are typically held by more experienced employees.
   - **Executives** are largely older, with **68.42%** aged **50-59**, reflecting that most leadership roles are occupied by those in the later stages of their careers.
